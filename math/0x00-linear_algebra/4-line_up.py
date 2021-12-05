@@ -4,6 +4,7 @@
 @author: David Henao
 """
 
+
 def add_arrays(arr1, arr2):
     """
     Function that adds two arrays element-wise.

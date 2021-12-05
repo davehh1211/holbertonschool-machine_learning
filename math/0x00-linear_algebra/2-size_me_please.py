@@ -3,6 +3,7 @@
 @author: David Henao
 """
 
+
 def matrix_shape(matrix):
     """
     Function that calculate the shape of a matrix.
